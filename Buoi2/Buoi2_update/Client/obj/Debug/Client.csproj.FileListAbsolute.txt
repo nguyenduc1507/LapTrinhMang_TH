@@ -1,0 +1,8 @@
+E:\LapTrinhMang\Buoi2\Buoi2\Client\bin\Debug\Client.exe.config
+E:\LapTrinhMang\Buoi2\Buoi2\Client\bin\Debug\Client.exe
+E:\LapTrinhMang\Buoi2\Buoi2\Client\bin\Debug\Client.pdb
+E:\LapTrinhMang\Buoi2\Buoi2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\LapTrinhMang\Buoi2\Buoi2\Client\obj\Debug\Client.Properties.Resources.resources
+E:\LapTrinhMang\Buoi2\Buoi2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\LapTrinhMang\Buoi2\Buoi2\Client\obj\Debug\Client.exe
+E:\LapTrinhMang\Buoi2\Buoi2\Client\obj\Debug\Client.pdb
