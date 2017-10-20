@@ -1,0 +1,8 @@
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\bin\Debug\Bai3.exe.config
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\bin\Debug\Bai3.exe
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\bin\Debug\Bai3.pdb
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\obj\Debug\Bai3.exe
+E:\LapTrinhMang\Buoi3\Bai3\Bai3\obj\Debug\Bai3.pdb
