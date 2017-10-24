@@ -1,0 +1,6 @@
+C:\Users\Messi\Desktop\Buoi4\bai4_shutdown\Client\bin\Debug\Client.exe.config
+C:\Users\Messi\Desktop\Buoi4\bai4_shutdown\Client\bin\Debug\Client.exe
+C:\Users\Messi\Desktop\Buoi4\bai4_shutdown\Client\bin\Debug\Client.pdb
+C:\Users\Messi\Desktop\Buoi4\bai4_shutdown\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Messi\Desktop\Buoi4\bai4_shutdown\Client\obj\Debug\Client.exe
+C:\Users\Messi\Desktop\Buoi4\bai4_shutdown\Client\obj\Debug\Client.pdb

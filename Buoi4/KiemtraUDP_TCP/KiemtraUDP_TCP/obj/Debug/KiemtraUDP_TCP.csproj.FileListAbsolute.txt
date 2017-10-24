@@ -1,0 +1,6 @@
+C:\Users\Messi\Desktop\Buoi4\KiemtraUDP_TCP\KiemtraUDP_TCP\bin\Debug\KiemtraUDP_TCP.exe.config
+C:\Users\Messi\Desktop\Buoi4\KiemtraUDP_TCP\KiemtraUDP_TCP\bin\Debug\KiemtraUDP_TCP.exe
+C:\Users\Messi\Desktop\Buoi4\KiemtraUDP_TCP\KiemtraUDP_TCP\bin\Debug\KiemtraUDP_TCP.pdb
+C:\Users\Messi\Desktop\Buoi4\KiemtraUDP_TCP\KiemtraUDP_TCP\obj\Debug\KiemtraUDP_TCP.csprojResolveAssemblyReference.cache
+C:\Users\Messi\Desktop\Buoi4\KiemtraUDP_TCP\KiemtraUDP_TCP\obj\Debug\KiemtraUDP_TCP.exe
+C:\Users\Messi\Desktop\Buoi4\KiemtraUDP_TCP\KiemtraUDP_TCP\obj\Debug\KiemtraUDP_TCP.pdb
