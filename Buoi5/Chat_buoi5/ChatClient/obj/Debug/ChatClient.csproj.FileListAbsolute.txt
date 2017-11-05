@@ -6,3 +6,6 @@ C:\Users\Messi\Desktop\Buoi5\Chat_buoi5\ChatClient\obj\Debug\ChatClient.Properti
 C:\Users\Messi\Desktop\Buoi5\Chat_buoi5\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
 C:\Users\Messi\Desktop\Buoi5\Chat_buoi5\ChatClient\obj\Debug\ChatClient.exe
 C:\Users\Messi\Desktop\Buoi5\Chat_buoi5\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Messi\Desktop\New folder (2)\LapTrinhMang_TH\Buoi5\Chat_buoi5\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Messi\Desktop\New folder (2)\LapTrinhMang_TH\Buoi5\Chat_buoi5\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Messi\Desktop\New folder (2)\LapTrinhMang_TH\Buoi5\Chat_buoi5\ChatClient\obj\Debug\ChatClient.pdb

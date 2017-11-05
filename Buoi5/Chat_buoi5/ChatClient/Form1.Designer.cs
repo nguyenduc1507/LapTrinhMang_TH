@@ -46,6 +46,7 @@
             this.btnConnect.TabIndex = 21;
             this.btnConnect.Text = "Connect";
             this.btnConnect.UseVisualStyleBackColor = true;
+            this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
             // 
             // txtHost
             // 
@@ -90,6 +91,7 @@
             this.btnText.TabIndex = 16;
             this.btnText.Text = "Send";
             this.btnText.UseVisualStyleBackColor = true;
+            this.btnText.Click += new System.EventHandler(this.btnText_Click);
             // 
             // txtInput
             // 
@@ -107,7 +109,7 @@
             this.lbxConversation.Size = new System.Drawing.Size(413, 212);
             this.lbxConversation.TabIndex = 14;
             // 
-            // Form1
+            // ChatClient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -120,7 +122,7 @@
             this.Controls.Add(this.btnText);
             this.Controls.Add(this.txtInput);
             this.Controls.Add(this.lbxConversation);
-            this.Name = "Form1";
+            this.Name = "ChatClient";
             this.Text = "ChatClient";
             this.ResumeLayout(false);
             this.PerformLayout();

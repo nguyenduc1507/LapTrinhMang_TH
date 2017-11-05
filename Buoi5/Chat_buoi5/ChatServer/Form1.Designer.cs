@@ -38,7 +38,7 @@
             // 
             // btnVideo
             // 
-            this.btnVideo.Location = new System.Drawing.Point(328, 311);
+            this.btnVideo.Location = new System.Drawing.Point(218, 340);
             this.btnVideo.Name = "btnVideo";
             this.btnVideo.Size = new System.Drawing.Size(97, 23);
             this.btnVideo.TabIndex = 19;
@@ -47,7 +47,7 @@
             // 
             // btnSound
             // 
-            this.btnSound.Location = new System.Drawing.Point(328, 285);
+            this.btnSound.Location = new System.Drawing.Point(115, 340);
             this.btnSound.Name = "btnSound";
             this.btnSound.Size = new System.Drawing.Size(97, 23);
             this.btnSound.TabIndex = 18;
@@ -56,7 +56,7 @@
             // 
             // btnImg
             // 
-            this.btnImg.Location = new System.Drawing.Point(328, 256);
+            this.btnImg.Location = new System.Drawing.Point(12, 340);
             this.btnImg.Name = "btnImg";
             this.btnImg.Size = new System.Drawing.Size(97, 23);
             this.btnImg.TabIndex = 17;
@@ -65,19 +65,20 @@
             // 
             // btnText
             // 
-            this.btnText.Location = new System.Drawing.Point(328, 230);
+            this.btnText.Location = new System.Drawing.Point(321, 230);
             this.btnText.Name = "btnText";
-            this.btnText.Size = new System.Drawing.Size(97, 23);
+            this.btnText.Size = new System.Drawing.Size(104, 104);
             this.btnText.TabIndex = 16;
             this.btnText.Text = "Send";
             this.btnText.UseVisualStyleBackColor = true;
+            this.btnText.Click += new System.EventHandler(this.btnText_Click);
             // 
             // txtInput
             // 
             this.txtInput.Location = new System.Drawing.Point(12, 230);
             this.txtInput.Multiline = true;
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(310, 104);
+            this.txtInput.Size = new System.Drawing.Size(303, 104);
             this.txtInput.TabIndex = 15;
             // 
             // lbxConversation
@@ -92,7 +93,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(439, 343);
+            this.ClientSize = new System.Drawing.Size(442, 373);
             this.Controls.Add(this.btnVideo);
             this.Controls.Add(this.btnSound);
             this.Controls.Add(this.btnImg);
@@ -116,4 +117,3 @@
         private System.Windows.Forms.ListBox lbxConversation;
     }
 }
-
