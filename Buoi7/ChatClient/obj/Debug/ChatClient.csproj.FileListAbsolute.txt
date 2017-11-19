@@ -1,1 +1,2 @@
 C:\Users\Administrator\Desktop\Buoi7\TruongNguyenDuc_Buoi7\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Administrator\Desktop\New folder\LapTrinhMang_TH\Buoi7\ChatClient\bin\Debug\ChatClient.exe.config
