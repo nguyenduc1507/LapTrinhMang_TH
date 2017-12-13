@@ -1,1 +1,2 @@
 C:\Users\Administrator\Desktop\Buoi8\TruongNguyenDuc_Buoi8\Broadcast\bin\Debug\Broadcast.exe.config
+C:\Users\Administrator\Desktop\New folder\LapTrinhMang_TH\Buoi8\Broadcast\bin\Debug\Broadcast.exe.config

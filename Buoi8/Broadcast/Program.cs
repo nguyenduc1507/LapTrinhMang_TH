@@ -1,22 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
+using System.Net;
+using System.Net.Sockets;
 
 namespace Broadcast
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Socket sock = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
+            IPEndPoint iep1 = new IPEndPoint(IPAddress.Broadcast, 9050);
+            IPEndPoint iep2 = new IPEndPoint(IPAddress.Parse("192.168.1.255"), 9050);
+            string hostname = Dns.GetHostName();
+            byte[] data = Encoding.ASCII.GetBytes(hostname);
+            sock.SetSocketOption(SocketOptionLevel.Socket,
+            SocketOptionName.Broadcast, 1);
+            sock.SendTo(data, iep1);
+            sock.SendTo(data, iep2);
+            sock.Close();
         }
     }
 }
